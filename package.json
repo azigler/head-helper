@@ -1,0 +1,11 @@
+{
+  "name": "@andrewzigler/head-helper",
+  "version": "1.0.0",
+  "description": "Framework-agnostic library of helper functions for building metadata-rich <head> elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Zigler",
+  "license": "MIT"
+}
