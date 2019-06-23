@@ -1,11 +1,21 @@
 {
   "name": "@andrewzigler/head-helper",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Framework-agnostic library of helper functions for building metadata-rich <head> elements.",
+  "homepage": "https://www.andrewzigler.com/portfolio/head-helper-library",
+  "author": "Andrew Zigler <andrewzigler@gmail.com> (https://www.andrewzigler.com)",
+  "license": "MIT",
+  "repository": "azigler/structured-data",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Andrew Zigler",
-  "license": "MIT"
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-config-standard": ">=12.0.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-prettier": "3.1.0",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-standard": ">=4.0.0",
+    "prettier": "1.17.1"
+  }
 }
