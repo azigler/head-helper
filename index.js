@@ -44,7 +44,7 @@ export default class HeadHelper {
           content: imageUrl
         }
       ],
-      link: [{ hid: 'canonical', name: 'canonical', content: pageUrl }]
+      link: [{ hid: 'canonical', rel: 'canonical', href: pageUrl }]
     }
   }
   
